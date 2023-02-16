@@ -1,0 +1,8 @@
+p.speech{font-family:Times;font-size:12;color:black}
+p.direction{background-color:white;font-family:Arial;font-size:14;color:black}
+p.direction:hover{background-color:white;color:black}
+h5.LANE{font:bold;color:black;font-size:20px;font-style:oblique}
+h5.BAUER{font:bold;color:black;font-size:20px;font-style:inherit}
+h5:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
+h5.BAUER:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
+h5.LANE:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
