@@ -17,3 +17,9 @@ td{
     color:blue;
     text-align:center;
 }
+th{
+    font:bold;
+    color:brown;
+    text-align:center;
+    background-color:white;
+}
