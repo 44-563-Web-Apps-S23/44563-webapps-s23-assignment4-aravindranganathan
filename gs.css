@@ -9,3 +9,7 @@ h5.LANE:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20
 table{color:black;
       margin:25px 25px 25px;
 }
+table,th,td{padding: 20px;
+            border: 1px solid black;
+            border-collapse: collapse;
+}
