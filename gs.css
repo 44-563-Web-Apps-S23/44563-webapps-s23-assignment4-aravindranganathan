@@ -6,3 +6,6 @@ h5.BAUER{font:bold;color:black;font-size:20px;font-style:inherit}
 h5:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
 h5.BAUER:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
 h5.LANE:hover{text-shadow: 20px 30px 20px;border-bottom:black solid;font-size:20px }
+table{color:black;
+      margin:25px 25px 25px;
+}
